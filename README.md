@@ -13,15 +13,15 @@ In this project, let's build a **Gallery App**
 
 ### Set Up Instructions
 
-<details>
+
 
 - Download dependencies by running `npm install`
 - Start up the app using `npm start`
-</details>
+
 
 ### Completion Instructions
 
-<details>
+
 <summary>Functionality to be added</summary>
 <br/>
 
@@ -39,5 +39,5 @@ The app must have the following functionalities
   |   imageAltText   |  String   |
   | thumbnailAltText |  String   |
 
-</details>
+
 
